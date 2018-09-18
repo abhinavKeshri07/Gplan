@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Gplan</string>
+    <string name="checkBoxText">checkMe</string>
+    <string name="buttonText">clickMe</string>
+    <string name="sudokuButton">Sudoku</string>
+    <string name="taskmanager">TaskManager</string>
 </resources>
